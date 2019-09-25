@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "model-choir-253913",
+    "private_key_id": "809112083387111568cebd9b72a0886f03d87146",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb3PClcXgqecq5\nWlPdQe9cz/MhXVC8zCdoY4kmJRyuF10hsXyfI7xoX/d5oApb9G0piGCVDYeN/p7V\n6HbZ4gXowBR7PbjdpXCgXzXfTZDEBNVtssNlrjIYD8jnXpGCuzKtOkEhQGTxpdz1\n7nMgwPbNXrR/vQJozW722sxI7taOU9r1aVoTILq66BtMNT9S50JFc0Lbwh3soOV8\nSEcCDPeDhjVasuZRoc23oNkiBgNRoJJwaODed7DFiZoeRsRkWKuhJPEPOLx9GY03\n/Amth4SgYW8UXCNrM3ZxZzu9f+TViRKgBbLuZUeznJjWI/Xs3X4eLeuUY/5+mlgp\n4VibVLGtAgMBAAECggEAJE5o+ADgfvRz1o1F78pGGZaPCfyUrAXaQCS/c9U9QwhK\nN2kCoIdQgfeoy/oNr7HWI9CSvuWx58+h7C4EUWim+7qSisqr32WEQLcs82E8EY0W\nskDr5ymWnag/ojWTK6KzgUqKlVZMrUV3nQn4Y27PjrM61G6Quxzvdi0tXOfVrr1Y\ndJuzcaO4N6ZGt8v8oOGUwO2JEu5OVFiz0puUagSMicKn8D/34deGhaiORNH2OmrR\n7AEhS/XCwZ6Dp2pqlQnzAnBSARd1EsDGj40dNNhLMKPmXDKDSbQJKZBHmtwOAtpu\nIroIOfpSJkhx1nuE83y+ovd7MCPSuCeXt2aTx4AX+QKBgQDXnYCBP/txsrKakPke\n4KBFCNloKDDNDkOtEYLviUpWAm+FFnEPKXqFftg+AKxDgS1y/iiLiPshe5ew9OBn\n/u1/N21LogchsBDMfzF/aCHaso2UmVx7Y5z31AMaK4vYKo/xK+E1Ajswgzia3EBc\nL9zqG8EMLUap1kaSkV6sxKTl9wKBgQC5DmPuxSP6zBDn9kA+rwMc/T3kN/RvT4og\nLiSkJc2fSRe7uLz97j4D4kUAdfbtUduF02UadJe2xi8hgflcTf/zJ/WeOcEuO6Wf\n0KR+okYaeAWTCqnOZOdO3NJrgOvij8ys69bEWnawyR2Gh5mw5YWfpvauG4BsPEtS\nghoLbBpsewKBgGolAGkgnWE4rpJHAk0AGgZCN/z9pCCegBSIRWQ0uyKialIjXR8w\ntT9Y1Y2YeTV2N3CfzEf89FxkYqXbt0mbB0IUgDq2ljowWeTCTRTCp7/pHKfl49Be\nlpyug6RzgZG2SkxY5LJa2dalEs2x1gFMEr4xUZT0CRB9CxsGc4wr9l27AoGAROjK\n5Zqbb0SV9wqHmc/pxN24Mkdzyg9ATANiuY0qKGo7YDfGiHgyt5eGQkmrDWwx5n91\nYoiQBgt+eWfAx1J0QMNcfvLasLCdWAmFd3JN0IVo7fxGhwij6YXpBQcYz2Dkwm9/\npdZZ5DK/v9y2qlyNiYnOyb6L78Hz+mFf+Wjj3gkCgYEAo+LyrU00MaLUtANKtiGn\nr/NTbRVOnbeNSoOoJjaZ9StMCxNyXoj4N/8Oh4lmtEeWyiBz3g6lLDikc2jUCVr8\nZQkpIRh5+kY5LbxlfvjMmykag3/k40MPHUTFVU4RkfV9rsJnLyi8uztQ7jSo6fBP\nvzkH+69sQsHU4MxBZIwq7A8=\n-----END PRIVATE KEY-----\n",
+    "client_email": "rsbhardwaj-trial@model-choir-253913.iam.gserviceaccount.com",
+    "client_id": "103069352572607567658",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rsbhardwaj-trial%40model-choir-253913.iam.gserviceaccount.com"
+  }

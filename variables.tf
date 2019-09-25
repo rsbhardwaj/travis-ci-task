@@ -42,3 +42,17 @@ variable "environment" {
   description = "value passed to Environment tag and used in name of Vault auth backend later"
   default = "gke-dev"
 }
+
+variable "helm_version" {
+  default = "v2.9.1"
+}
+
+variable "app_name" {
+  default = "drupal"
+}
+
+variable "acme_email" {}
+
+variable "acme_url" {
+  default = "https://acme-v01.api.letsencrypt.org/directory"
+}
