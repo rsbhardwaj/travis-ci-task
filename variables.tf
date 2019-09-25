@@ -51,7 +51,6 @@ variable "app_name" {
   default = "drupal"
 }
 
-variable "acme_email" {}
 
 variable "acme_url" {
   default = "https://acme-v01.api.letsencrypt.org/directory"
