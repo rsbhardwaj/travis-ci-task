@@ -1,4 +1,2 @@
-# travis-ci-task    
-
-## Download the terraform binary and save in the same directory
-
+Deploy Kubernetes cluster using terraform and Travis CI on Google Kubernetes Engine
+Add specific permissions in GCP for service account

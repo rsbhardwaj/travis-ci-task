@@ -10,12 +10,12 @@ variable "gcp_zone" {
 
 variable "gcp_project" {
   description = "GCP project name"
-  default = "storied-imprint-228613"
+  default = "model-choir-253913"
 }
 
 variable "initial_node_count" {
   description = "Number of worker VMs to initially create"
-  default = 1
+  default = 2
 }
 
 variable "master_username" {
@@ -35,7 +35,7 @@ variable "node_machine_type" {
 
 variable "node_disk_size" {
   description = "Node disk size in GB"
-  default = "20"
+  default = "10"
 }
 
 variable "environment" {

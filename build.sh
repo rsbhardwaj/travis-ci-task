@@ -4,9 +4,10 @@ cd raj-shekhar1/k8s-cluster-tf
 
 cd -
 
-./terraform init
+./terraform-linux init
+
 
 if [[ $TRAVIS_BRANCH == 'master' ]]
 then
-    ./terraform apply -auto-approve
+    ./terraform-linux apply -auto-approve
 fi
